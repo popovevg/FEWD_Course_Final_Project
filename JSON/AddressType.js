@@ -1,0 +1,9 @@
+[
+    "House",
+    "Apartment",
+    "Business",
+    "Campus",
+    "Hotel",
+    "Dorm",
+    "Other"
+]

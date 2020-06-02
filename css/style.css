@@ -1,0 +1,53 @@
+#delivery_info, #billing_info {
+    width: 50%;
+    margin: 1% 25%;
+}
+#alert_index {
+    text-align: center;
+}
+#cards {
+    width: 80%;
+    margin: 5% 10%;
+}
+#submit_button {
+    width: 20%;
+    margin: 0 40%;
+}
+.invalid-tooltip {
+    display: inline;
+}
+#order {
+    width: 40%;
+    margin: 1% 30%;
+}
+#order_alert {
+    width: 24%;
+    /* height: 150px; */
+    position: sticky;
+    float: left;
+    top: 3%;
+    margin: 1% 3%;
+    font-size: 1.2em;
+}
+#submit_button_2 {
+    width: 50%;
+    margin: 2% 25%;
+}
+#order_price, #your_pizza {
+    color: rgb(0, 0, 65);
+}
+#card_number { 
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#submit_button_3 {
+    width: 30%;
+    margin: 0 35%;
+}
+#thank_you_alert {
+    width: 50%;
+    margin: 10% 25%;
+    text-align: center;
+}
+
